@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+   <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
 <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,5035467,4,511,95,18,00000000']);
@@ -14,6 +14,8 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5035467&101" alt="free web site hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Sprylo — Tech &amp; Gadgets Ecommerce HTML Template</title>
